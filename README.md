@@ -11,9 +11,9 @@
 </h1>
 <h4 align="center">
   
-  :man_technologist:  **Developer @ Xusenov IT & Alumni @ 42 Heilbronn.**
+  :man_technologist:  **Developer @ Xusenov IT & Programming @ Dasturchilar**
 
-  :exploding_head:  **In my free time I work on my game engine or mastery projects at 42.**
+  :exploding_head:  **I invite those interested in programming to my page..**
   
 <details>
 
