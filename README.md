@@ -1,71 +1,124 @@
 
-<p align="center">
-  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMXIxcDFybzYxNHNrYjU1d2hkcTJtM3Iya2VrZzhodzZ4c3Rwc3Y3NiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/sULKEgDMX8LcI/200.webp" alt="Matrix Code" width="1200" height="100">
-</p>
+<img
+  src="DO_IT.jpeg"
+  alt="Do something great"
+  title="Do something great"
+  style="display: inline-block; margin: 0 auto; max-width: 1000px">
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;Nice+to+meet+you!&center=true&size=30">
+  </a>
+</h1>
+<h4 align="center">
+  
+  :man_technologist:  **Developer @ Xusenov IT & Alumni @ 42 Heilbronn.**
 
-### 𝐇𝐞𝐥𝐥𝐨 𝐞𝐯𝐞𝐫𝐲𝐨𝐧𝐞  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYXhseGdyY3U3bTNhNGE3MDZ0bjhjcWwwMzB0dTkwYzVseHhvdHQ5NCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/gM5qFksULw54NMWyry/giphy.gif" width="30px"><br> 𝐈 𝐚𝐦 Xusenov Zarifjon
+  :exploding_head:  **In my free time I work on my game engine or mastery projects at 42.**
+  
+<details>
 
+  :camera:  **I love photography** [You can check it out here](https://xusenovme.github.io/wanderlustontheroad/)
+  
+  :world_map: **& to explore this piece of rock floating in nothingness called :earth_americas:**
 
-I’m Soliha, and I’m deeply passionate about learning new technologies and creating innovations as a developer.       
-I believe that technology has the power to make the world better, and every project is a step towards that goal. I really like solving problems and doing interesting projects. I’m always open to new ideas and development opportunities.
+  :compass: **While constantly getting lost on a top of :mountain: :volcano: or in the :desert: and in the :cityscape:**
 
-<br>
--📍&nbsp; Current location: Samarkand, Uzbekistan
-<br/>
-- 💻 &nbsp; Ask me about anything, I am happy to help
-<br>
+  :coffee:  **Drinker who is eating programming memes for breakfast :trollface:**
+  
+  :computer:  **Aiming to build a better future for the next generations**
+  
+  ***:bulb: I want to wake up in the morning and think the future is going to be great***
+  
+  ***Do you*** :interrobang:
 
-<p>- 📑 &nbsp; Contact me: 
-<a href="https://t.me/Xusenov_off" target="blank"><img align="center" src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Telegram.svg" alt="Telegram" height="30" width="40" /></a>
-<a href="mailto:xusenov.zarifjon@mail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Gmail.svg" alt="Gmail" height="30" width="40" /></a>
-</p>
+</h4>
+</details>
 
+<h2></h2>
 
-
-
-### :hammer_and_wrench: Languages-Frameworks-Tools :
-<div>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="Python Logo" width="40" height="40" />&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="35"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" title="PostgreSQL" alt="PostgreSQL Logo" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="45" height="45"/>&nbsp;
-  <img src="https://cdn.iconscout.com/icon/free/png-512/free-django-1-282754.png?f=webp&w=256" alt="Django Logo" width="40" height="40" />&nbsp;
-  <img src="https://cdn-icons-png.flaticon.com/128/10329/10329422.png" alt="API" width="40" height="40" />&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="45" height="45"/>&nbsp;
-  <img src="https://img.icons8.com/?size=100&id=LoL4bFzqmAa0&format=png&color=000000" alt="GitHub Logo" width="40" height="40" />&nbsp;&nbsp;
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Tux.svg/1024px-Tux.svg.png" alt="Linux Logo" width="30" height="35" />
-  <img src="https://img.icons8.com/?size=100&id=qBWtR72kluCU&format=png&color=000000" alt="Kali Linux Logo" width="45" height="45" />&nbsp;
-  <img src="https://code.visualstudio.com/assets/images/code-stable.png" alt="VSCode Logo" width="30" height="30" />&nbsp;
+<div align="center" style="text-align: center;">
+  <h2>🛠️⚡Languages and Tools I use⚡🛠️</h2>
+  <p>
+	  <img src="https://a11ybadges.com/badge?logo=vulkan">
+    <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
+    <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
+    <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue">
+    <img src="https://img.shields.io/badge/OpenGL-%23FFFFFF.svg?style=for-the-badge&logo=opengl">
+    <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white">
+    <img src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white">
+    <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white">
+  </p>
+  <p>
+    <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white">
+    <img src="https://img.shields.io/badge/VIM-%2311AB00.svg?&style=for-the-badge&logo=vim&logoColor=white">
+    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
+    <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white">
+    <img src="https://img.shields.io/badge/VirtualBox-21416b?style=for-the-badge&logo=VirtualBox&logoColor=white">
+    <img src="https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white">
+    <img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
+  </p>
+  <p>
+    <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white">
+    <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
+    <img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white">
+    <img src="https://img.shields.io/badge/GNU%20Bash-4EAA25?style=for-the-badge&logo=GNU%20Bash&logoColor=white">
+    <img src="https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white">
+	  <img src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white">
+  </p>
+	<p>
+	  <img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white">
+	  <img src="https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white">
+	  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
+	  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB">
+	  <img src="https://shields.io/badge/TypeScript-3178C6?logo=TypeScript&logoColor=FFF&style=flat-square">
+	</p>
+  <h2></h2>
 </div>
 
-
----
-
-### 🔥 &nbsp; My Stats :
-
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=xusenovme&theme=dark&background=000000)](https://git.io/streak-stats)
-<br><br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xusenovme&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 <br>
-
-<p>&nbsp;<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=xusenovme&show_icons=true&theme=highcontrast&rank_icon=github&border_radius=10" alt="xusenovme" /></p>
-
----
-
-<br>
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=xusenovme&theme=aura_dark" height="180em" />
-<br>
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=xusenovme&theme=2077" height="180em" />
-
----
-
-
-<a href=#><img src="https://raw.githubusercontent.com/blocage/blocage/main/contributions.svg"></a>
-
-<p align="center">
-  Visitor count<br>
-  <img src="https://profile-counter.glitch.me/_blocage/count.svg" />
+<p align=center>
+  <div align=center>
+    <a href="https://github.com/anuraghazra/github-readme-stats">
+      <img height=163   src="https://github-readme-stats.zohan.tech/api/top-langs/?username=zstenger93&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
+    </a>
+    <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
+      <img width=390 src="https://github-readme-stats.zohan.tech/api?username=zstenger93&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
+    </a>
+  </div>
+  <br>
 </p>
+  <h2></h2>
+
+<div id="header" align="center">
+  <img src="https://github.com/zstenger93/zstenger93/blob/main/space.jpeg" width="1000">
+  <!-- <img src="https://static.tumblr.com/6f56dd103eb0e115debd14cacf3c12d3/ffcg2gp/TPXnw8dso/tumblr_static_tumblr_static_filename_focused_v3.gif" width="1000"/> -->
+</div>
+<details>
+	<div align=center>
+	  <h2>🎮 When I have free(time);</2>
+	  <h2></2>
+		<p>
+		<img src="https://img.shields.io/badge/Battle.net-000?style=for-the-badge&logo=battle.net&logoColor=148EFF">
+		<img src="https://img.shields.io/badge/Origin-148EFF?style=for-the-badge&logo=origin&logoColor=white">
+		</p>
+	</div>
+	<div align=center>
+    <a href="https://www.linkedin.com/in/zstenger/">
+    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/zstenger/">
+    </a>
+    <a href="https://www.instagram.com/wanderlustontheroad/">
+      <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+    </a>
+    <a href="https://www.facebook.com/zsolt.stenger/">
+      <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white">
+    </a>
+  </div>
+  <div id="header" align="center" style="text-align: center;">
+    <h2>
+      Life of a programmer in a nutshell:
+    </h2>
+    <img src="https://media.giphy.com/media/vrxxqQbyRxYi6scCjT/giphy.gif" width="300"/>
+  </div>
+
+	
