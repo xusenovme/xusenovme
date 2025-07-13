@@ -1,7 +1,4 @@
-<p align="center">
-  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMXIxcDFybzYxNHNrYjU1d2hkcTJtM3Iya2VrZzhodzZ4c3Rwc3Y3NiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/sULKEgDMX8LcI/200.webp" alt="Matrix Code" width="1200" height="100">
-</p>
-
+![Main Image](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)
  
 <h1 align="center">
   <a href="https://git.io/typing-svg">
