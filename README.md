@@ -117,3 +117,13 @@
     <img src="https://media.giphy.com/media/vrxxqQbyRxYi6scCjT/giphy.gif" width="300"/>
   </div>
 
+
+---
+
+
+<a href=#><img src="https://raw.githubusercontent.com/blocage/blocage/main/contributions.svg"></a>
+
+<p align="center">
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/_blocage/count.svg" />
+</p>
